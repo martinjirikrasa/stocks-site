@@ -8,4 +8,4 @@ a website for getting a stock price, buying and selling them in fake portfolio
 
 
 
-this was part of Harvard CS50 and i didnt implement the helpers.py, and harvard cs50 creators made it
+this was part of Harvard CS50 and i didnt implement the helpers.py, harvard cs50 creators made it
