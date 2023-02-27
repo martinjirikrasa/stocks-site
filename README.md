@@ -10,7 +10,9 @@ a website for getting a stock price, buying and selling them in fake portfolio
 
 
 ![](https://user-images.githubusercontent.com/81698182/221697202-2af9841b-0bc6-4851-9fc4-7d1389b7b374.PNG)
-
+## HISTORY
+ 
+![](https://user-images.githubusercontent.com/81698182/221697433-e3ef3486-fccd-44ea-8666-127a81b17f5c.PNG)
 
 
 
